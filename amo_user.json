@@ -1,42 +1,10 @@
 [
   {
-    name John Doe,
-    email john.doe@example.com
+    name: "John Doe",
+    email: "john.doe@example.com"
   },
   {
-    name Jane Smith,
-    email jane.smith@example.com
-  },
-  {
-    name Michael Johnson,
-    email michael.johnson@example.com
-  },
-  {
-    name Emily Brown,
-    email emily.brown@example.com
-  },
-  {
-    name David Wilson,
-    email david.wilson@example.com
-  },
-  {
-    name Sarah Taylor,
-    email sarah.taylor@example.com
-  },
-  {
-    name James Martinez,
-    email james.martinez@example.com
-  },
-  {
-    name Jennifer Anderson,
-    email jennifer.anderson@example.com
-  },
-  {
-    name Christopher Thomas,
-    email christopher.thomas@example.com
-  },
-  {
-    name Jessica Clark,
-    email jessica.clark@example.com
+    name: "Jane Smith",
+    email: "jane.smith@example.com"
   }
 ]
